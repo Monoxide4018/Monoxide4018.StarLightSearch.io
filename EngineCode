@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Starlight Search</title>
+    <style>
+      /* Set the link color to white */
+      a {
+        color: white;
+      }
+      
+      /* Set the background color to black */
+      body {
+        background-color: black;
+      }
+      
+      /* Turn off Google branding */
+      .gsc-branding {
+        display: none !important;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 style="color: white;">Starlight Search</h1>
+    <script async src="https://cse.google.com/cse.js?cx=374cb6321bbeb4bb0"></script>
+    <div class="gcse-search"></div>
+  </body>
+</html>
